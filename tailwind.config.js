@@ -2,7 +2,16 @@
 module.exports = {
   content: ["./*.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        robo: ['Roboto'],
+        popi: ['Poppins']
+      },
+      colors: {
+        primary: "#541554",
+        secondary: "#F4EDE4"
+      }
+    },
   },
   plugins: [],
 }

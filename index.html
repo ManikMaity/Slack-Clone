@@ -7,9 +7,55 @@
     <!-- style css link  -->
     <link rel="stylesheet" href="./style.css">
 
+    <!-- fontawsome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
     <title>Slack Clone</title>
 </head>
-<body class="h-screen bg-slate-500">
-    
+<body class="h-screen font-popi text-sm">
+
+
+
+
+
+<header class="w-full bg-primary text-white">
+
+
+    <!-- ------------------- navbar section starts here ------------- -->
+    <nav class="flex font-popi py-3 md:py-6 px-6 md:px-12 leading-none justify-between text-[0.9rem] font-semibold">
+        <!-- navbar left section -->
+        <div class="flex gap-6">
+            <div class="flex items-center">
+                <img src="./assets/logo.svg" alt="website logo">
+            </div>
+            <ul class=" hidden lg:flex gap-6">
+                <li class="flex items-center"><a class="flex items-center gap-1" href="#">Features<i class="fa-solid fa-angle-down text-[0.6rem]"></i></a></li>
+                <li class="flex items-center"><a class="flex items-center gap-1" href="#">Solutions<i class="fa-solid fa-angle-down text-[0.6rem]"></i></a></li>
+                <li class="flex items-center"><a class="hover:underline" href="#">Enterprise</a></li>
+                <li class="flex items-center"><a class="flex items-center gap-1" href="#">Resources<i class="fa-solid fa-angle-down text-[0.6rem]"></i></a></li>
+                <li class="flex items-center"><a class="hover:underline" href="#">Pricing</a></li>
+            </ul>
+        </div>
+
+        <!-- navbar right section   -->
+        <div class="flex items-center gap-6">
+            <div class="">
+                <a href=""><i class="fa-solid fa-magnifying-glass text-lg"></i></a>
+            </div>
+            <div class="">
+                <a href="" class="flex items-center lg:hidden"><i class="fa-solid fa-bars text-lg"></i></a>
+            </div>
+            <a class="hidden lg:inline-block hover:underline" href="#">Sign in</a>
+            <button class="hidden lg:inline-block outline outline-1 hover:outline-2 transition-all  py-[0.8rem] px-4 rounded-sm">TALK TO SALES</button>
+            <button class="hidden min-[1150px]:inline-block outline outline-1 outline-white hover:outline-primary  transition-all bg-white text-primary font-semibold py-[0.8rem] px-4 rounded-sm">TRY FOR FREE</button>
+        </div>
+
+
+    </nav>
+    <!------------------------- navbar section ends here ------------- -->
+
+
+</header>
+  
 </body>
 </html>
