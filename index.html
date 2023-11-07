@@ -12,17 +12,17 @@
 
     <title>Slack Clone</title>
 </head>
-<body class="h-screen font-popi text-sm">
+<body class="font-popi text-sm w-screen overflow-x-hidden">
 
 
 
 
 
-<header class="w-full bg-primary text-white">
+<header class="w-full bg-primary text-white md:pb-12 min-[1150px]:pb-24 flex flex-col items-center">
 
 
     <!-- ------------------- navbar section starts here ------------- -->
-    <nav class="flex font-popi py-3 md:py-6 px-6 md:px-12 leading-none justify-between text-[0.9rem] font-semibold">
+    <nav class=" w-full flex font-popi py-3 md:py-6 px-6 md:px-12 leading-none justify-between text-[0.9rem] font-semibold max-w-[1400px]">
         <!-- navbar left section -->
         <div class="flex gap-6">
             <div class="flex items-center">
@@ -55,7 +55,40 @@
     <!------------------------- navbar section ends here ------------- -->
 
 
+
+    <!-- -------------------------- Hero section starts here --------------------  -->
+    <div class="flex h-full min-[1150px]:h-[400px] md:flex-row flex-col   justify-between  pt-8 md:py-0 text-center md:text-left md:pl-12 text-lg max-w-[1400px]">
+        <!-- hero section left  -->
+        <div class="md:w-[50%] flex px-4 md:px-0 flex-col justify-center">
+            <h1 class="font-bold text-[2.5rem] md:text-5xl min-[1150px]:text-6xl font-robo leading-tight">Made for people. <span class="min-[1150px]:block text-[#ecb22e]">Build for productivity.</span></h1>
+            <p class="mt-2 md:pr-10 pb-10">Connect the right people, find anything that you need and automate the rest. That’s work in Slack, your productivity platform.</p>
+            
+            <div class="grid min-[1150px]:grid-flow-col w-full gap-4 grid-flow-row">
+               
+                <button class="uppercase outline outline-1 outline-white hover:outline-primary  transition-all bg-white text-primary text-sm py-4 font-semibold rounded-sm">Sign Up With Email address</button>
+                <button class="flex items-center uppercase font-semibold p-[3px] outline outline-1 outline-blue-500 bg-blue-500 rounded-sm text-sm w-full h-[3.2rem] min-[1150px]:w-[85%]">
+                    <div class="bg-white grid h-full w-12  rounded-sm place-content-center">
+                        <img src="./assets/google-logo.svg" alt="">
+                    </div>
+                    <p class="mx-auto">
+                        Signup with gooogle
+                    </p>
+                </button>
+            </div>
+
+            <p class="mt-4"><span class="font-semibold">Slack is free to try for </span>as long as you like</p>
+        </div>
+
+        <!-- hero section right  -->
+        <div class= "md:w-[50%] py-10 min-[1150px]:py-0 min-[1150px]:h-full md:p-1 md:relative md:left-6">
+            <video autoplay loop muted class="h-full md:w-screen overflow-hidden md:object-left object-cover" src="./assets/hero-section-video.mp4"></video>
+        </div>
+
+    </div>
+    <!-- -------------------------- Hero section starts here --------------------  -->
 </header>
+
+
   
 </body>
 </html>
