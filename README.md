@@ -1,6 +1,6 @@
 # Slack Website Clone
 
-![Project Image](your_image_url_here)
+
 
 > A responsive and modern Slack Website clone built using HTML and Tailwind CSS.
 
@@ -8,12 +8,12 @@
 
 ## Table of Contents
 
-- [Description](https://github.com/ManikMaity/Slack-Clone/new/master?readme=1#description)
-- [Demo](https://github.com/ManikMaity/Slack-Clone/new/master?readme=1#demo)
-- [Features](https://github.com/ManikMaity/Slack-Clone/new/master?readme=1#features)  <!-- Add Features Section -->
-- [Technologies Used](https://github.com/ManikMaity/Slack-Clone/new/master?readme=1#technologies-used)
-- [Usage](https://github.com/ManikMaity/Slack-Clone/new/master?readme=1#usage)
-- [License](https://github.com/ManikMaity/Slack-Clone/new/master?readme=1#license)
+- [Description](https://github.com/ManikMaity/Slack-Clone#description)
+- [Demo](https://github.com/ManikMaity/Slack-Clone#demo)
+- [Features](https://github.com/ManikMaity/Slack-Clone#features)  <!-- Add Features Section -->
+- [Technologies Used](https://github.com/ManikMaity/Slack-Clone#technologies-used)
+- [Usage](https://github.com/ManikMaity/Slack-Clone#usage)
+- [Contact](https://github.com/ManikMaity/Slack-Clone#contact)
 
 ---
 
@@ -64,5 +64,7 @@ Here are some key features of this Slack Website clone:
 - Manik Maity -[manikmaity010@gmail.com]
 - [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
 
+---
 
+**Note**: This project is for educational and demonstration purposes. All assets used in the project are belongs to its respective owner, I used it for educational purpose. It is not affiliated with or endorsed by Slack.
 
