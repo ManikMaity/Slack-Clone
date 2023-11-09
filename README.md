@@ -6,6 +6,7 @@ This repository contains code for a responsive and modern Slack Website clone bu
 ## Table of Contents
 
 - [Description](https://github.com/ManikMaity/Slack-Clone#description)
+- [Preview](https://github.com/ManikMaity/Slack-Clone#preview)
 - [Demo](https://github.com/ManikMaity/Slack-Clone#demo)
 - [Features](https://github.com/ManikMaity/Slack-Clone#features)  <!-- Add Features Section -->
 - [Technologies Used](https://github.com/ManikMaity/Slack-Clone#technologies-used)
@@ -19,6 +20,18 @@ This repository contains code for a responsive and modern Slack Website clone bu
 This project is a Slack Website clone, designed to mimic the appearance of the popular communication platform Slack's home page. It was built using HTML and Tailwind CSS, making it responsive for all devices and giving it a sleek and modern look.
 
 ---
+
+## Preview
+
+### Desktop Preview
+https://github.com/ManikMaity/Slack-Clone/assets/110734724/fd792caa-5566-49f3-b2d4-d6ac13fd33e1
+
+### Mobile Preview
+https://github.com/ManikMaity/Slack-Clone/assets/110734724/40a1f638-2998-4847-82bc-055201a5e2fd
+
+---
+
+
 
 ## Demo
 
