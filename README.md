@@ -1,8 +1,5 @@
 # Slack Website Clone
-
-
-
-> A responsive and modern Slack Website clone built using HTML and Tailwind CSS.
+This repository contains code for a responsive and modern Slack Website clone built using HTML and Tailwind CSS. The clone is designed to be fully responsive, offering a seamless experience across different screen sizes.
 
 ---
 
